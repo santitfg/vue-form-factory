@@ -1,24 +1,4 @@
 # vue-form-factory
 
-## Project setup
-```
-npm install
-```
+Pequeña Investigacion  de Vue basandome en un [proyecto actual](https://github.com/santitfg/proyecto-gajo) en React  para rehacer el formulario de [entropia](https://github.com/santitfg/formulario-entropia)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
