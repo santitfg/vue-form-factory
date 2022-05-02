@@ -1,17 +1,14 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
   <FormFactory :listJson="lista" />
-  <!-- <HelloWorld msg="Welcome to Your Vue.js App" /> -->
 </template>
 
 <script>
-// import HelloWorld from "./components/HelloWorld.vue";
 import FormFactory from "./components/factory/FormFactory.vue";
 export default {
   name: "App",
   components: {
     FormFactory,
-    // HelloWorld,
   },
   data() {
     return {
